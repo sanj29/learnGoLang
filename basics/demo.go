@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-func main() {
+func basicOps() {
 	var a, b int
 	a, b = 3, 4
 

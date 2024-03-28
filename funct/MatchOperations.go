@@ -20,7 +20,7 @@ func power(x, y float64) float64 {
 	return res
 }
 
-func main() {
+func mathOpsTest() {
 
 	var a float64 = 3
 	var b float64 = 5

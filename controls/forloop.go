@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main1() {
+func forlootest() {
 
 	for i := 1; i <= 5; i++ {
 		fmt.Println(" Go ", i)
